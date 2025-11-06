@@ -4,7 +4,7 @@ using dogs.Tests;
 using Microsoft.EntityFrameworkCore;
 using Xunit;
 
-namespace DogsHouse.Tests;
+namespace dogs.Tests;
 
 public class DogServiceTests
 {

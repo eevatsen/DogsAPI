@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Xunit;
 
-namespace DogsHouse.Tests;
+namespace dogs.Tests;
 
 public class DogsControllerTests
 {

@@ -3,7 +3,7 @@ using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Options;
 using Xunit;
 
-namespace DogsHouse.Tests;
+namespace dogs.Tests;
 
 public class RateLimitServiceTests
 {
